@@ -1,6 +1,6 @@
 # Python Port Scanner 
 
-Anonygram is a simple Python program that allows one to scan a range of ports of a remote host. 
+This is a simple Python program that allows one to scan a range of ports of a remote host. 
 
 ## Getting Started
 
