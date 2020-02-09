@@ -1,6 +1,6 @@
 # Python Port Scanner 
 
-This is a simple Python program that allows one to scan a range of ports of a remote host. 
+This is a simple Python program which uses in-built modules that allows one to scan a range of ports of a remote host and find out if they're open or not.
 
 ## Getting Started
 
