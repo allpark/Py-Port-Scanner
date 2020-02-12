@@ -20,7 +20,8 @@ To install the extension, follow the steps below:
 
 1. extract the downloaded project into a suitable folder
 2. navigate to the folder using a suitable terminal or GUI
-3. run the program 
+3. run the program and input as instructed 
+
 
 # Technologies
 Python 3.5.0 
